@@ -8,5 +8,7 @@ A Convolutional Neural Network created with Keras.
 * For the CNN with sparse categorical crossentropy (`model_sparse.py`): https://www.machinecurve.com/index.php/2019/10/06/how-to-use-sparse-categorical-crossentropy-in-keras
 * For the 3D CNN (`3d_cnn.py`): https://www.machinecurve.com/index.php/2019/10/18/a-simple-conv3d-example-with-keras/
 * For the Leaky ReLU CNN (`model_leaky_relu.py`): https://www.machinecurve.com/index.php/2019/11/12/using-leaky-relu-with-keras/
+* For the LiSHT CNN (`model_lisht.py` / `model_lisht_compare.py`): https://www.machinecurve.com/index.php/2019/11/17/how-to-use-lisht-activation-function-with-keras/
+* For the CIFAR10 TensorBoard CNN (`model_cifar10_tensorboard.py`): https://www.machinecurve.com/index.php/2019/11/13/how-to-use-tensorboard-with-keras/
 
 Dataset: http://yann.lecun.com/exdb/mnist/
