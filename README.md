@@ -1,5 +1,5 @@
 # keras-cnn
-A Convolutional Neural Network created with Keras.
+ConvNets created with Keras.
 
 **Read more about these models on MachineCurve**
 
