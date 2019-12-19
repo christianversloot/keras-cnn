@@ -10,5 +10,8 @@ A Convolutional Neural Network created with Keras.
 * For the Leaky ReLU CNN (`model_leaky_relu.py`): https://www.machinecurve.com/index.php/2019/11/12/using-leaky-relu-with-keras/
 * For the LiSHT CNN (`model_lisht.py` / `model_lisht_compare.py`): https://www.machinecurve.com/index.php/2019/11/17/how-to-use-lisht-activation-function-with-keras/
 * For the CIFAR10 TensorBoard CNN (`model_cifar10_tensorboard.py`): https://www.machinecurve.com/index.php/2019/11/13/how-to-use-tensorboard-with-keras/
+* For the PReLU CNN (`model_prelu.py` & comparison): https://www.machinecurve.com/index.php/2019/12/05/how-to-use-prelu-with-keras/
+* For the ELU CNN (`model_elu.py` & comparison): https://www.machinecurve.com/index.php/2019/12/09/how-to-use-elu-with-keras/
+* For the Dropout CNN (`model_dropout.py` & comparison): https://www.machinecurve.com/index.php/2019/12/18/how-to-use-dropout-with-keras/
 
 Dataset: http://yann.lecun.com/exdb/mnist/
