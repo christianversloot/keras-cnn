@@ -14,6 +14,7 @@ ConvNets created with Keras.
 * For the ELU CNN (`model_elu.py` & comparison): https://www.machinecurve.com/index.php/2019/12/09/how-to-use-elu-with-keras/
 * For the Dropout CNN (`model_dropout.py` & comparison): https://www.machinecurve.com/index.php/2019/12/18/how-to-use-dropout-with-keras/
 * For the BatchNormalization CNN (`model_batchnorm.py`): https://www.machinecurve.com/index.php/2020/01/15/how-to-use-batch-normalization-with-keras/
+* For the FTSwish CNN (`model_ftswish.py` & comparison): https://www.machinecurve.com/index.php/2020/01/06/how-to-use-ftswish-with-keras/
 
 Datasets:
   * http://yann.lecun.com/exdb/mnist/
