@@ -13,5 +13,9 @@ ConvNets created with Keras.
 * For the PReLU CNN (`model_prelu.py` & comparison): https://www.machinecurve.com/index.php/2019/12/05/how-to-use-prelu-with-keras/
 * For the ELU CNN (`model_elu.py` & comparison): https://www.machinecurve.com/index.php/2019/12/09/how-to-use-elu-with-keras/
 * For the Dropout CNN (`model_dropout.py` & comparison): https://www.machinecurve.com/index.php/2019/12/18/how-to-use-dropout-with-keras/
+* For the BatchNormalization CNN (`model_batchnorm.py`): https://www.machinecurve.com/index.php/2020/01/15/how-to-use-batch-normalization-with-keras/
 
-Dataset: http://yann.lecun.com/exdb/mnist/
+Datasets:
+  * http://yann.lecun.com/exdb/mnist/
+  * https://pypi.org/project/extra-keras-datasets/
+  * Clanuwat, T., Bober-Irizar, M., Kitamoto, A., Lamb, A., Yamamoto, K., & Ha, D. (2018). Deep learning for classical Japanese literature. arXiv preprint arXiv:1812.01718. Retrieved from https://arxiv.org/abs/1812.01718
